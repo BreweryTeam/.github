@@ -5,7 +5,7 @@ We maintain [BreweryX](https://github.com/BreweryTeam/BreweryX) and related othe
 
 <sup><sub>Visit BreweryX's SpigotMC page! [www.spigotmc.org](https://www.spigotmc.org/resources/114777/)</sub></sup>
 
-![BreweryX Banner](images/BreweryXBanner.png)
+![BreweryX Banner](../images/BreweryXBanner.png)
 
 <!--
 
