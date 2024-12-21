@@ -1,9 +1,8 @@
 ## The Brewery Team ⚗️🧪🔮
 
-We maintain [BreweryX](https://github.com/BreweryTeam/BreweryX) and related other projects.
+**We maintain [BreweryX](https://github.com/BreweryTeam/BreweryX) and other related projects.**
 
-
-<sup><sub>Visit BreweryX's SpigotMC page! [www.spigotmc.org](https://www.spigotmc.org/resources/114777/)</sub></sup>
+Visit BreweryX's SpigotMC page! [www.spigotmc.org](https://www.spigotmc.org/resources/114777/)
 
 ![BreweryX Banner](../images/BreweryXBanner.png)
 
